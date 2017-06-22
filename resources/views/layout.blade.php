@@ -69,7 +69,7 @@
 
             <div class="content">
               <a href="/test2">Test2</a>
-              <a href="/test/3">test3</a>
+              <a href="/test3">test3</a>
                 @yield('body')
             </div>
         </div>
