@@ -8,4 +8,4 @@ Route::get('/', function () {
 
 Route::get('/test', 'TestController@index');
 Route::get('/test2', 'TestController@test2');
-Route::get('/test/3', 'TestController@test3');
+Route::get('/test3', 'TestController@test3');

@@ -1,5 +1,5 @@
 @extends('layout')
 
 @section('body')
-  <h1>Change Test 3 Page</h1>
+  <h1>Test3</h1>
 @endsection

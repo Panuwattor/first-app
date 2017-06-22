@@ -1,10 +1,5 @@
 @extends('layout')
 
 @section('body')
-  My Name Is ต่อ
-@endsection
-
-
-@section('footer')
-  Footer Na
+  <h1>Test2</h1>
 @endsection
